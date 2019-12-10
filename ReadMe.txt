@@ -32,3 +32,9 @@ AppWizard uses "TODO:" to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+
+编程输出由1到n^2之间的数组成的n阶方阵，其中n的值用符号变量n指定，当n=4时方阵中的各元素的排列形如下：
+1  2  6  7
+3  5  8  13
+4  9  12  14
+10 11  15  16
